@@ -1,0 +1,3 @@
+NPC
+ID:1000;X:-199520;Y:-200288;D:-1;XTRA:"{\n    \"blockCollision1\"\: false\,\n    \"framestyle\"\: 1\,\n    \"gfxheight\"\: 64\,\n    \"gfxwidth\"\: 78\,\n    \"gravity1\"\: false\,\n    \"harmTypes\"\: 668\,\n    \"height\"\: 48\,\n    \"horizontalMovementSpeed1\"\: 1.5\,\n    \"image\"\: \"choppah\"\,\n    \"nofireball\"\: true\,\n    \"ownEffect\"\: 3\,\n    \"ownEffectFrame\"\: 2\,\n    \"ownEffectFrameSquish\"\: 2\,\n    \"ownEffectSquish\"\: 3\,\n    \"redirector1\"\: true\,\n    \"verticalMovementSpeed1\"\: 0\,\n    \"water1\"\: false\,\n    \"width\"\: 64\n}\n";
+NPC_END
