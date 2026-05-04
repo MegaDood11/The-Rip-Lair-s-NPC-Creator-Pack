@@ -1,0 +1,3 @@
+NPC
+ID:1000;X:-199456;Y:-200160;D:-1;XTRA:"{\n    \"deathBelow\"\: \"272\"\,\n    \"deathOther\"\: \"272\"\,\n    \"deathSound\"\: \"monster-death.ogg\"\,\n    \"deathStomp\"\: \"272\"\,\n    \"deathTail\"\: \"272\"\,\n    \"dontMove1\"\: false\,\n    \"framesIdle1\"\: 2\,\n    \"gfxheight\"\: 48\,\n    \"gfxoffsetEffectx\"\: 64\,\n    \"gfxoffsetEffecty\"\: 58\,\n    \"height\"\: 38\,\n    \"horizontalMovementSpeed1\"\: 0\,\n    \"hpdamage1\"\: 1\,\n    \"hpdamageSFX1\"\: \"bat.ogg\"\,\n    \"hpdamagefire1\"\: 1\,\n    \"hpdamagefireSFX1\"\: \"bat.ogg\"\,\n    \"image\"\: \"legs\"\,\n    \"maxHP1\"\: 3\,\n    \"phaseEffectSpeed1\"\: {\n        \"x\"\: 7\,\n        \"y\"\: 0\n    }\,\n    \"phaseHP1\"\: 3\n}\n";
+NPC_END
