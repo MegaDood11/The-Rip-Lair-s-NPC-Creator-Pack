@@ -1,0 +1,8 @@
+gfxheight=14
+gfxwidth=32
+height=14
+width=32
+frames=2
+framestyle=1
+speed=1.0
+noblockcollision=true
